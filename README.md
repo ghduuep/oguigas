@@ -1,6 +1,6 @@
 ## Ola! eu sou o ghduep
 
-- 🌱 Hoje estudo Full-Stack
+- 🌱 Hoje estudo linguagens para me auxiliar no hacking etico
 - 📫 Contate-me atraves do e-mail: ghduep@outlook.com
 - 😄 Pronouns: ele/dele
 
